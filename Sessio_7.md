@@ -49,6 +49,7 @@ At the end of the deployment your should have these files to the root directory 
 * /resources
 * app.py
 * db.py
+* lock.py
 
 ### The requirements.txt
     
